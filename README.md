@@ -12,7 +12,7 @@ The GT-511C3 FPS (fingerprint scanner) is a small embedded module that consists 
 
 ### Note: Refer the codes for connection of Rx/Tx<br>
 * Pindiagram<br>
-<img src="https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Images/f1.jpeg" width="200"><br>
+<img src="https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Images/f1.jpeg" width="400"><br>
 ## Library File
 
 A GT-511C3 library will be required to run this sketch. [click here](https://roboindia.com/tutorial-content/arduino_code/FPS_GT511C3.zip) Copy this to your Arduino library folder.<br>
