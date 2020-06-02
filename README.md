@@ -17,6 +17,6 @@ The GT-511C3 FPS (fingerprint scanner) is a small embedded module that consists 
 
 A GT-511C3 library will be required to run this sketch. [click here](https://roboindia.com/tutorial-content/arduino_code/FPS_GT511C3.zip) Copy this to your Arduino library folder.<br>
 # Steps :
-1. Upload the [Fingerprint_Enroll.ino]() to your arduino after connecting the GT-511C3 sensor.Message will be displayed on your serial monitor if your fingerprint is registered successfully.<br><br>
-2. Now upload the [Fingerprint_Identify.ino]() to your arduino.Place your registered finger on the sensor.Message will be displayed if the fingerprint is verified.   
-
+1. Upload the [Fingerprint_Enroll.ino](https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Fingerprint_Enroll.ino) to your arduino after connecting the GT-511C3 sensor.<br><br>
+2. Open the Serial monitor in the Arduino IDE.Follow the displayed steps.Message will be displayed on your serial monitor if your fingerprint is registered successfully.<br><br>
+3. Now upload the [Fingerprint_Identify.ino](https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Fingerprint_Identify.ino) to your arduino and open the Serial monitor.Place your registered finger on the sensor.Message will be displayed if the fingerprint is verified.
