@@ -4,7 +4,7 @@
 <img src="https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Images/f2.jpg" width="300">  <br>
 The GT-511C3 FPS (fingerprint scanner) is a small embedded module that consists of an optical sensor mounted on a small circuit board. The optical sensor scans a fingerprint and the microcontroller and software provides the modules functionality which automatically processes the scanned fingerprint. The module can be used in projects for identifying users.<br>
 
-## Arduino
+## Arduino UNO
 <img src="https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Images/f4.jpeg" width="200">  <br>
 
 # Hardware Interfacing :
