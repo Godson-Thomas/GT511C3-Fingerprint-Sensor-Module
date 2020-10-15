@@ -10,7 +10,7 @@ The GT-511C3 FPS (fingerprint scanner) is a small embedded module that consists 
 # Hardware Interfacing :
 <img src="https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Images/f3.png" width="400"> <br>
 
-### Note: Refer the codes for connection of Rx/Tx<br>
+### Note: Refer the codes for connection of Rx/Tx.<br>
 * Pindiagram<br>
 <img src="https://github.com/Godson-Thomas/GT511C3-Fingerprint-Sensor-Module/blob/master/GT-511C3/Images/f1.jpeg" width="400"><br>
 ## Library File
